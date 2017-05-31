@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Caddy Email",
+    "description": "Caddy Email"
+  },
+  "appShortName": {
+    "message": "caddy_email",
+    "description": ""
+  },
+  "appDescription": {
+    "message": "Send emails from your Caddy Email email addresses.",
+    "description": "Send emails from your Caddy Email email addresses."
+  },
+  "browserActionTitle": {
+    "message": "Caddy Email",
+    "description": "Open Caddy Email"
+  }
+}
